@@ -45,6 +45,7 @@ body {
 
 .loader span {
   position: absolute;
+  background: var(--rainbow);
   animation: animate 10s linear infinite;
 }
 
